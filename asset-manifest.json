@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Namorada/static/css/main.60a9e2a5.css",
+    "main.js": "/Namorada/static/js/main.56f9ed4d.js",
+    "static/media/ProfileTwo.jpg": "/Namorada/static/media/ProfileTwo.7a89cea8c8735a57c1c5.jpg",
+    "static/media/Family.jpg": "/Namorada/static/media/Family.90920d9351fc57f933c8.jpg",
+    "static/media/praia.jpg": "/Namorada/static/media/praia.70b4fcd0c1d302cace79.jpg",
+    "static/media/DiaNamorados.jpg": "/Namorada/static/media/DiaNamorados.67b921e5e4ee4cd01085.jpg",
+    "static/media/macdonalds.jpg": "/Namorada/static/media/macdonalds.67a17493354fe37c15c0.jpg",
+    "static/media/voce.jpg": "/Namorada/static/media/voce.ff9f6fd2774d45aa6720.jpg",
+    "static/media/kisses.jpg": "/Namorada/static/media/kisses.ccbb49df52f6ae33befd.jpg",
+    "static/media/heartNotFilled.png": "/Namorada/static/media/heartNotFilled.c25e111789a5c926cbc3.png",
+    "index.html": "/Namorada/index.html",
+    "main.60a9e2a5.css.map": "/Namorada/static/css/main.60a9e2a5.css.map",
+    "main.56f9ed4d.js.map": "/Namorada/static/js/main.56f9ed4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a9e2a5.css",
+    "static/js/main.56f9ed4d.js"
+  ]
+}
